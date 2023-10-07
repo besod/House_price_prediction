@@ -32,3 +32,6 @@ db.sqlite3
 .DS_Store
 *.bak
 *.vscode/
+
+#bugs
+tempCodeRunnerFile.py
